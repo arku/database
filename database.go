@@ -8,7 +8,7 @@ import (
 	"github.com/RTradeLtd/database/v2/models"
 	"github.com/jinzhu/gorm"
 
-	// import our postgres dialect used to talk with a postgres databse
+	// import postgres dialect used to talk with a postgres database
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 )
 
